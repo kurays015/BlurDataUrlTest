@@ -2,7 +2,7 @@ import Products from "@/components/Products";
 import Link from "next/link";
 import { Suspense } from "react";
 
-export const runtime = "experimental-edge";
+// export const runtime = "experimental-edge";
 
 export default function ProductPage() {
   return (

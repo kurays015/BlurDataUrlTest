@@ -16,19 +16,12 @@ export default function Home() {
               <Link href="/products">Products</Link>
             </li>
             <li>
-              <Link href="/categories">Categories</Link>
+              <Link href="/plaiceholder">Plaiceholder</Link>
             </li>
           </ul>
         </nav>
       </header>
-      <section className="p-5">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur,
-        officia? Perferendis sit iste sunt quam laboriosam expedita tempore
-        molestias mollitia? Enim voluptatem odit officia commodi dolore
-        asperiores rem, expedita, quae iste, dignissimos hic vel soluta! Dolor
-        corporis, praesentium temporibus veritatis itaque atque adipisci impedit
-        veniam sunt quidem, harum saepe quos!
-      </section>
+      <h1 className="text-white text-3xl">Blur Data URL Testing!</h1>
     </main>
   );
 }
